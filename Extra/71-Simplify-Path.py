@@ -1,3 +1,8 @@
+'''
+Author: Ali Çine
+Description:
+    Because paths are separeted with "/" first I split it, it simplifies the word seperation process. Then I loop the list and update the stack since "" and "." means nothing in path order. Finally stack has only the necessary names that are in absolute path. 
+'''
 class Solution:
     def simplifyPath(self, path: str) -> str:
         path_list = path.split("/")
