@@ -24,3 +24,9 @@ For workshop-related questions or feedback, feel free to reach out via Informati
 
 - 💬 WhatsApp Group: [Join Here](https://taucp.netlify.app/)  
 - ✉️ Email: [info@taucp.org](mailto:info@taucp.org)  
+
+---
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0**.
