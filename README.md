@@ -2,9 +2,7 @@
 
 This repository includes the solutions to the problems from the **Competitive Programming Workshop** I’m tutoring at **Informatix Club, Turkish-German University**.
 
-🗓 **Schedule:**  
-Every **Tuesday and Wednesday at 16:00**  
-🏫 **Location:** ALUAM Computer Lab
+*The workshop ran every Tuesday and Wednesday in Fall 2025 at the ALUAM Computer Lab and has now ended. The solutions from every session are in this repo.*
 
 ---
 
